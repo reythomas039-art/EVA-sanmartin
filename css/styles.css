@@ -1,1 +1,26 @@
+.presentacion {
+  background-color: #e8f4ff;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 15px;
+  text-align: center;
+}
 
+.presentacion-titulo {
+  color: #5a45c8;
+}
+
+.presentacion-texto {
+  color: #333;
+  margin-top: 10px;
+}
+
+.presentacion-boton {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 10px 20px;
+  background-color: #1bc7ef;
+  color: white;
+  text-decoration: none;
+  border-radius: 10px;
+}
